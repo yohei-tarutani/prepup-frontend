@@ -1,5 +1,6 @@
 # prepup-frontend
-Front-end repository for PrepUp (A mobile app developed with React Native)
+- Front-end repository for PrepUp (A mobile app developed with React Native)
+- Back-end repository for PrepUp: https://github.com/shunsaku-sugita/prepup-backend
 
 ## Welcome to PrepUp👋
 Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
@@ -14,12 +15,19 @@ I had the privilege of collaborating with a talented team of designers and devel
 
 ## App's main 3 features (AI-driven)
 
-### 🗣️ 1. Practice Interviews:
-Get tailored questions for your interests or chosen job role, record your responses, and receive detailed feedback and scores.
-### 🌟 2. Master the STAR Method:
-Improve your answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
-### 🔎 3. Find Jobs:
-Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for your selected positions.
+### 🗣️ Practice Interviews:
+- Get tailored questions for your interests or chosen job role, record your responses, and receive detailed feedback and scores.
+### 🌟 Master the STAR Method:
+- Improve your answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
+### 🔎 Find Jobs:
+- Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for your selected positions.
+<br><br>
+
+## Tech Stack
+<img width="761" alt="Image" src="https://github.com/user-attachments/assets/02c8583b-0c79-4e3a-99c0-89f9d795edf8" />
+
+## System Archtecture
+<img width="761" alt="Image" src="https://github.com/user-attachments/assets/701ff160-b7b5-42c5-8ec6-a87b71e20afa" />
 <br><br>
 
 ## Requirements to run the app
