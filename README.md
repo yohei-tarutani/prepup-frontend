@@ -1,17 +1,16 @@
-# prepup-frontend
-- Front-end repository for PrepUp (A mobile app developed with React Native)
-- Back-end repository for PrepUp: https://github.com/shunsaku-sugita/prepup-backend
+# Welcome to PrepUp👋
+Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
+<br>
+- Front-end repository (A mobile app developed with React Native)
+- Back-end repository: https://github.com/shunsaku-sugita/prepup-backend
+
+Landing Page (with a promotion video): https://prepup.ca
+<br><br>
+![Image](https://github.com/user-attachments/assets/e9c98cc4-723a-459d-be96-3acaa643e63e)
 
 ### Team Project
 This is my latest team project at college which has developed during 13 weeks.
 I had the privilege of collaborating with a talented team of designers and developers as the main front-end developer. 
-
-## Welcome to PrepUp👋
-Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
-<br>
-  Landing Page (with a promotion video): https://prepup.ca
-<br><br>
-![Image](https://github.com/user-attachments/assets/e9c98cc4-723a-459d-be96-3acaa643e63e)
 
 ## Demo
 -------- 1. Interview Simulator -------- ------ 2. STAR Method Exercise ------- ------------ 3. Job Finder ------------ <br>
@@ -19,7 +18,7 @@ Prep-up is a mobile app designed to support users in their job search and interv
 ![Image](https://github.com/user-attachments/assets/27dc4741-81af-44a3-9525-06a44201ed82)
 ![Image](https://github.com/user-attachments/assets/af48e1f8-2e7b-4d1b-8054-e7252fb5bfb8)
 
-## App's main 3 features (AI-driven)
+## Main 3 features (AI-driven)
 #### 🗣️ Interview Simulator:
 - Get tailored questions for your interests or chosen job role, record your responses, and receive detailed feedback and scores.
 #### 🌟 STAR Method Exercise:
