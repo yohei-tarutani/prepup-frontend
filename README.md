@@ -14,14 +14,17 @@ Prep-up is a mobile app designed to support users in their job search and interv
 ![Image](https://github.com/user-attachments/assets/e9c98cc4-723a-459d-be96-3acaa643e63e)
 
 ## Demo
-
+-------- 1. Interview Simulator -------- ------ 2. STAR Method Exercise ------- ------------ 3. Job Finder ------------ <br>
+![Image](https://github.com/user-attachments/assets/c3886372-cf97-42fd-bce6-c2389d6b6be3)
+![Image](https://github.com/user-attachments/assets/27dc4741-81af-44a3-9525-06a44201ed82)
+![Image](https://github.com/user-attachments/assets/af48e1f8-2e7b-4d1b-8054-e7252fb5bfb8)
 
 ## App's main 3 features (AI-driven)
-#### 🗣️ Practice Interviews:
+#### 🗣️ Interview Simulator:
 - Get tailored questions for your interests or chosen job role, record your responses, and receive detailed feedback and scores.
-#### 🌟 Master the STAR Method:
+#### 🌟 STAR Method Exercise:
 - Improve your answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
-#### 🔎 Find Jobs:
+#### 🔎 Job Finder:
 - Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for your selected positions.
 <br><br>
 
