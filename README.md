@@ -1,21 +1,24 @@
-<<<<<<< HEAD
 # prepup-frontend
+Front-end repository for PrepUp (A mobile app developed with React Native)
 
-Front-end repository for PrepUp
+## Welcome to PrepUp👋
+Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
+Landing Page: https://prepup.ca
 
-# Create Prod Branch (prod)
+## Team Project
+This is my latest team project at college which has developed during 13 weeks.
+I had the privilege of collaborating with a talented team of designers and developers as a front-end developer. 
 
-# Create Pre-Prod Branch (prod-stg)
+## App's main 3 features (AI-driven)
 
-# Create Pre-Prod Branch (dev-stg)
+### 🗣️ Practice Interviews:
+Get tailored questions for their interests or chosen job role, record their responses, and receive detailed feedback and scores.
+### 🌟 Master the STAR Method:
+Improve their answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
+### 🔎 Find Jobs:
+Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for their selected positions.
 
-# Create Pre-Prod Branch (dev-local)
-
-Hello World World!
-=======
-# Welcome to PrepUp 👋
-
-## Requirements
+## Requirements (How to run the app)
 
 1. VSCode
 2. Updated Node Version: 20+
@@ -66,17 +69,3 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> dev-blanca-local
