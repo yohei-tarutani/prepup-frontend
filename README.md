@@ -10,7 +10,7 @@ Landing Page (with a promotion video): https://prepup.ca
 
 ## Team Project
 This is my latest team project at college which has developed during 13 weeks.
-I had the privilege of collaborating with a talented team of designers and developers as a front-end developer. 
+I had the privilege of collaborating with a talented team of designers and developers as the main front-end developer. 
 
 ## App's main 3 features (AI-driven)
 
