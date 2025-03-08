@@ -1,8 +1,8 @@
 # Welcome to PrepUp👋
 Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
 <br>
-- Front-end repository (Developed with React Native, Expo and gluestack-ui)
-- Back-end repository: https://github.com/shunsaku-sugita/prepup-backend
+- Front-end (Client: React Native, Expo, gluestack-ui)
+- Back-end  (Server: Node.js, Express) | Repository Link: https://github.com/shunsaku-sugita/prepup-backend
 
 Landing Page (with a promotion video): https://prepup.ca
 <br><br>
@@ -15,8 +15,8 @@ I had the privilege of collaborating with a talented team of designers and devel
 ## Demo
 -------- 1. Interview Simulator -------- ------ 2. STAR Method Exercise ------- ------------ 3. Job Finder ------------ <br>
 ![Image](https://github.com/user-attachments/assets/c3886372-cf97-42fd-bce6-c2389d6b6be3)
-![Image](https://github.com/user-attachments/assets/27dc4741-81af-44a3-9525-06a44201ed82)
 ![Image](https://github.com/user-attachments/assets/af48e1f8-2e7b-4d1b-8054-e7252fb5bfb8)
+![Image](https://github.com/user-attachments/assets/27dc4741-81af-44a3-9525-06a44201ed82)
 
 ## Main 3 features (AI-driven)
 #### 🗣️ Interview Simulator:
