@@ -3,7 +3,9 @@ Front-end repository for PrepUp (A mobile app developed with React Native)
 
 ## Welcome to PrepUp👋
 Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
-Landing Page: https://prepup.ca
+Landing Page (with a video): https://prepup.ca
+<br><br>
+![Image](https://github.com/user-attachments/assets/e9c98cc4-723a-459d-be96-3acaa643e63e)
 
 ## Team Project
 This is my latest team project at college which has developed during 13 weeks.
@@ -11,14 +13,15 @@ I had the privilege of collaborating with a talented team of designers and devel
 
 ## App's main 3 features (AI-driven)
 
-### 🗣️ Practice Interviews:
-Get tailored questions for their interests or chosen job role, record their responses, and receive detailed feedback and scores.
-### 🌟 Master the STAR Method:
-Improve their answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
-### 🔎 Find Jobs:
-Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for their selected positions.
+### 🗣️ 1. Practice Interviews:
+Get tailored questions for your interests or chosen job role, record your responses, and receive detailed feedback and scores.
+### 🌟 2. Master the STAR Method:
+Improve your answers to behavioral questions using structured feedback for each step: Situation, Task, Action, Result.
+### 🔎 3. Find Jobs:
+Not only search and apply for job roles via the Azuna job portal, but generate personalized interview questions for your selected positions.
+<br><br>
 
-## Requirements (How to run the app)
+## Requirements to run the app
 
 1. VSCode
 2. Updated Node Version: 20+
