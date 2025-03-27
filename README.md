@@ -2,7 +2,8 @@
 Prep-up is a mobile app designed to support users in their job search and interview preparation by utilizing AI.
 <br>
 - Front-end (Client): React Native, Expo, gluestack-ui
-- Back-end (Server): Node.js, Express | Repository Link: https://github.com/shunsaku-sugita/prepup-backend
+- Back-end (Server): Node.js, Express, Mongoose | Repository Link: https://github.com/shunsaku-sugita/prepup-backend
+- Database : MongoDB
 
 Landing Page (with a promotion video): https://prepup.ca
 <br><br>
